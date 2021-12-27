@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/assignment-codewallas/static/css/main.a7cf4a74.css",
+    "main.js": "/assignment-codewallas/static/js/main.472ced37.js",
+    "static/js/787.cfd8f164.chunk.js": "/assignment-codewallas/static/js/787.cfd8f164.chunk.js",
+    "index.html": "/assignment-codewallas/index.html",
+    "main.a7cf4a74.css.map": "/assignment-codewallas/static/css/main.a7cf4a74.css.map",
+    "main.472ced37.js.map": "/assignment-codewallas/static/js/main.472ced37.js.map",
+    "787.cfd8f164.chunk.js.map": "/assignment-codewallas/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7cf4a74.css",
+    "static/js/main.472ced37.js"
+  ]
+}
