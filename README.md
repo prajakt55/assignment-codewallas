@@ -1,3 +1,8 @@
+please install node modules first after cloning or looking to open this react app
+command: npm i
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
